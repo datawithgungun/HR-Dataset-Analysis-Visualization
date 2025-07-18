@@ -97,4 +97,3 @@ This HR analytics project demonstrates how powerful insights can be derived from
 
 ---
 
-Let me know if you want this README in `.md` format or if you'd like help uploading files to GitHub or adding storytelling for a presentation.
