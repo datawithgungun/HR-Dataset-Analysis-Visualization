@@ -1,8 +1,4 @@
-# HR-Dataset-Analysis-Visualization
-Performed Data Cleaning, Data Analysis &amp; Visualization in Power BI
-Here’s a professional and clear **README.md** content for your GitHub project titled **HR Dataset Analysis & Visualization**. This explains your objective, tools, dashboards, and insights:
 
----
 
 # 💼 HR Dataset Analysis & Visualization
 
